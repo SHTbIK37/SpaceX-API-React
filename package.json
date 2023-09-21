@@ -2,7 +2,7 @@
   "name": "spacex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shtbik37.github.io/SpaceX-API-React/",
+  "homepage": "https://shtbik37.github.io/SpaceX-API-React",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
