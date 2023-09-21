@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/SpaceX-API-React/static/js/main.fe75d232.js",
+    "static/js/787.c30a6e17.chunk.js": "/SpaceX-API-React/static/js/787.c30a6e17.chunk.js",
+    "index.html": "/SpaceX-API-React/index.html",
+    "main.fe75d232.js.map": "/SpaceX-API-React/static/js/main.fe75d232.js.map",
+    "787.c30a6e17.chunk.js.map": "/SpaceX-API-React/static/js/787.c30a6e17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fe75d232.js"
+  ]
+}
